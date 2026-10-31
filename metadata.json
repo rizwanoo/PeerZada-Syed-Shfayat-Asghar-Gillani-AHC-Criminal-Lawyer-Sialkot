@@ -1,0 +1,8 @@
+{
+  "name": "PeerZada Syed Shfayat Asghar Gillani AHC — Criminal Lawyer Sialkot",
+  "description": "Official legal practice of PeerZada Syed Shfayat Asghar Gillani AHC, Chairman of Pakistan Lawyer's Company. Dedicated criminal defence, bail matters, FIR proceedings, and court advocacy in Sialkot, Punjab, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
